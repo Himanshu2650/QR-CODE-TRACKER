@@ -1,11 +1,6 @@
-flask
-requests
-jsonify
+Flask
 folium
-datetime
 geopy
 pandas
 fpdf
-gunicorn
 Pillow
-selenium
