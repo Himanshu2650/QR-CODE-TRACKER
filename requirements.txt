@@ -13,3 +13,4 @@ email.message
 pandas  
 fpdf  
 PIL.Image
+gunicorn
