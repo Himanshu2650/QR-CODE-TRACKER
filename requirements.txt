@@ -6,5 +6,4 @@ datetime
 geopy
 pandas
 fpdf
-PIL
 gunicorn
