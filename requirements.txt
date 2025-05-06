@@ -4,7 +4,6 @@ jsonify
 folium
 datetime
 geopy
-smtplib
 pandas
 fpdf
 PIL
