@@ -126,7 +126,7 @@ def send_email_with_attachments(PDF_REPORT, CHECKLIST_PDF):
     msg = EmailMessage()
     msg['Subject'] = 'Walk Tracker Report'
     msg['From'] = 'himanshukumaranand3670@gmail.com'
-    msg['To'] = 'thakuranand2650@gmail.com'
+    msg['To'] = ['thakuranand2650@gmail.com']
 
     msg.set_content("Please find attached:\n- Checklist Responses (PDF)\n- Walk Route Map (PDF)")
 
